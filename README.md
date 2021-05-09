@@ -1,2 +1,2 @@
 # hello-world
-framework sode setup
+framework code setup
